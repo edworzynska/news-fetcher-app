@@ -1,0 +1,19 @@
+{
+  "name": "news-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "esbuild index.js --bundle  --outfile=bundle.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
