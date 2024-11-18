@@ -4,10 +4,10 @@ The __News App__ allows users to view the latest news articles and search for ne
 
 ## Tech Stack
 
-**JavaScript**: handling the app logic and interactions
-**Jest**: testing framework
-**HTML/CSS**: frontend structure and styling
-**Guardian API**: used to fetch the articles
+**JavaScript**: handling the app logic and interactions  
+**Jest**: testing framework  
+**HTML/CSS**: frontend structure and styling  
+**Guardian API**: used to fetch the articles  
 **esbuild**: used for bundling the JavaScript files
 
 
